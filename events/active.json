@@ -1,0 +1,51 @@
+{
+  "slug": "mangalya-weddings-guruvayur",
+  "name": "Mangalya Weddings",
+  "shortName": "Mangalya",
+  "descriptor": "Event Management",
+  "address": "opposite ksrtc Bus stand, West Nada, Guruvayur, Keralam 680101",
+  "area": "West Nada",
+  "city": "Guruvayur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680101",
+  "geo": {
+    "lat": 10.5929595,
+    "lng": 76.0355672
+  },
+  "mapsLink": "https://maps.google.com/?cid=835239810243724508",
+  "phone": "+91 62384 70727",
+  "whatsapp": "916238470727",
+  "rating": 5,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "name": "Naveen k b",
+      "rating": 5,
+      "quote": "Good services, professional handling delicious sadhya"
+    },
+    {
+      "name": "mini ks",
+      "rating": 5,
+      "quote": "Professional service and well managed, top quality food (sadhya) overall good"
+    },
+    {
+      "name": "Nidhin Balan",
+      "rating": 5,
+      "quote": "Trusted service with quality.Especially sadhya and behaviour off staffs overall im satisfied with mangalya weddings Guruvayur"
+    },
+    {
+      "name": "Saeed K",
+      "rating": 5,
+      "quote": "Professional services, reasonable price & friendly management"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://mangalya-weddings-guruvayur.vercel.app"
+}
